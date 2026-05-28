@@ -24,24 +24,3 @@ Repository dedicated to solving competitive programming problems.
 ## Goal
 
 Improve problem solving, data structures, algorithms, and coding interview skills through consistent practice.
-
-## Repository Structure
-
-competitive-programming-hub/
-│
-├── arrays/
-├── string/
-├── binary_tree/
-├── bit_manipulation/
-├── matrix/
-├── linked_list/
-├── trie/
-├── math/
-├── geometry/
-├── stack/
-```
-
-
-class Solution:
-    pass
-```
