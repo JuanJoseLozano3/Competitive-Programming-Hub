@@ -5,15 +5,24 @@ Repository dedicated to solving competitive programming problems.
 ## Topics
 
 * Arrays
-* Binary Search
+* Binary Trees
+* Bit Manipulation
+* Combinatorics
 * Dynamic Programming
+* Game Theory
+* Geometry
 * Graphs
-* Hash Maps
+* Greedy
+* Heaps
 * Linked Lists
+* Math
+* Matrix
+* Prefix Sum
+* Segment Trees
 * Sliding Window
-* Trees
+* Stacks
+* Strings
 * Trie
-* Two Pointers
 
 ## Languages
 
