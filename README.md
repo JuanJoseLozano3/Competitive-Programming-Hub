@@ -5,15 +5,18 @@ Repository dedicated to solving competitive programming problems.
 ## Topics
 
 * Arrays
+* Backtracking
 * Binary Search
 * Binary Tree
 * Bit Manipulation
 * Combinatorics
+* Divide And Conquer
 * Dp
 * Game Theory
 * Geometry
 * Graphs
 * Greedy
+* Hash
 * Heap
 * Linked List
 * Math
