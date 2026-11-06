@@ -29,6 +29,7 @@ Repository dedicated to solving competitive programming problems.
 * Stack
 * String
 * Trie
+* Two Pointers
 
 ## Languages
 
